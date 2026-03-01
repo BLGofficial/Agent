@@ -1,0 +1,5 @@
+{
+  "name": "AI Role Architect",
+  "description": "Design, generate, and test AI personas and system instructions using Gemini.",
+  "requestFramePermissions": []
+}
